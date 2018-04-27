@@ -1,0 +1,11 @@
+{
+  "timeZone": "America/Mexico_City",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "Hootsuite",
+      "libraryId": "1T7hkbvWdmzIV86pI3l7mZfHisOJaZ3jeCI4NfhJSKMcKEYnhhG5JPRJm",
+      "version": "2"
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
